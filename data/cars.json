@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "name": "Mc Laren",
+    "price": 1200,
+    "imageUrl": "/mclaren.png",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Lamborghini",
+    "price": 1200,
+    "imageUrl": "/lamborghini.png",
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Ferrari",
+    "price": 1200,
+    "imageUrl": "/ferrari.png",
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "BMW",
+    "price": 950,
+    "imageUrl": "/bmw.png",
+    "available": true
+  },
+  {
+    "id": 5,
+    "name": "Mercedes",
+    "price": 900,
+    "imageUrl": "/mercedes.png",
+    "available": true
+  },
+  {
+    "id": 6,
+    "name": "Porsche",
+    "price": 1000,
+    "imageUrl": "/porsche.png",
+    "available": true
+  },
+  {
+    "id": 7,
+    "name": "Bentley",
+    "price": 2000,
+    "imageUrl": "/bentley.png",
+    "available": true
+  }
+]
+
+
